@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/develcrafter/css_master_practice6#readme",
   "scripts": {
-    "start": "parcel pj6_clone1.html"
+    "start": "parcel pj6_clone2.html"
   },
   "dependencies": {
     "postcss-preset-env": "^6.4.0"
