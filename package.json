@@ -1,0 +1,30 @@
+{
+  "name": "css_master_practice6",
+  "version": "1.0.0",
+  "description": "6th project for css practice from nomad coder.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develcrafter/css_master_practice6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/develcrafter/css_master_practice6/issues"
+  },
+  "homepage": "https://github.com/develcrafter/css_master_practice6#readme",
+  "scripts": {
+    "start": "parcel pj6_clone1.html"
+  },
+  "dependencies": {
+    "postcss-preset-env": "^6.4.0"
+  },
+  "postcss": {
+    "plugins": {
+      "postcss-preset-env": {
+        "stage": 0
+      }
+    }
+  }
+}
