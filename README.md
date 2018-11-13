@@ -1,2 +1,2 @@
 # css_master_practice6
-6th project for css practice from nomad coder.
+CSS practice for 6th homework project from Nomad Coder.
